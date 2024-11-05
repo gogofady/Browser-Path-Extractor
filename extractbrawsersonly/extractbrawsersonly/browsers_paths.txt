@@ -1,0 +1,3 @@
+Google Chrome (WOW64) - C:\Program Files\Google\Chrome
+Microsoft Edge - C:\Program Files (x86)\Microsoft\Edge
+Brave (WOW64) - C:\Program Files\BraveSoftware\Brave-Browser
